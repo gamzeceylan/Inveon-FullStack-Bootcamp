@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <addionalInfo>serileştirme olmayacak</addionalInfo>
+  <Name>İbrahim</Name>
+  <Phone>50382838283</Phone>
+  <DoB>2023-10-10T14:54:30.69</DoB>
+  <Deparment>Yazılım</Deparment>
+  <Salary>3000</Salary>
+</Employee>

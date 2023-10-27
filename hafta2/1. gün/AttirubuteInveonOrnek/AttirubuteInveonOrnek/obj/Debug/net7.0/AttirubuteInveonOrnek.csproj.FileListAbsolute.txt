@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\bin\Debug\net7.0\AttirubuteInveonOrnek.exe
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\bin\Debug\net7.0\AttirubuteInveonOrnek.deps.json
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\bin\Debug\net7.0\AttirubuteInveonOrnek.runtimeconfig.json
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\bin\Debug\net7.0\AttirubuteInveonOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\bin\Debug\net7.0\AttirubuteInveonOrnek.pdb
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.AssemblyInfo.cs
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\refint\AttirubuteInveonOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.pdb
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\AttirubuteInveonOrnek.genruntimeconfig.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\AttirubuteInveonOrnek\AttirubuteInveonOrnek\obj\Debug\net7.0\ref\AttirubuteInveonOrnek.dll

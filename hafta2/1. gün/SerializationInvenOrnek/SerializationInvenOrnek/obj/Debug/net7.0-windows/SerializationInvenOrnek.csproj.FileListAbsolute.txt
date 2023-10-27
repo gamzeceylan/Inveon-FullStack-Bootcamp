@@ -1,0 +1,40 @@
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.exe
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.deps.json
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.runtimeconfig.json
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.pdb
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.Form1.resources
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.AssemblyInfo.cs
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\refint\SerializationInvenOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.pdb
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.genruntimeconfig.cache
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\ref\SerializationInvenOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.JsonForm.resources
+C:\Users\Administrator\Documents\InveonBootcamp\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.CopyComplete
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.exe
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.deps.json
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.runtimeconfig.json
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.dll
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\SerializationInvenOrnek.pdb
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.AssemblyReference.cache
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.Form1.resources
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.JsonForm.resources
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.GenerateResource.cache
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.AssemblyInfoInputs.cache
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.AssemblyInfo.cs
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.CoreCompileInputs.cache
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.csproj.CopyComplete
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.dll
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\refint\SerializationInvenOrnek.dll
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.pdb
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\SerializationInvenOrnek.genruntimeconfig.cache
+C:\Users\cceyl\OneDrive\Masaüstü\inveon\hafta2\1. gün\3.gun\SerializationInvenOrnek\SerializationInvenOrnek\obj\Debug\net7.0-windows\ref\SerializationInvenOrnek.dll

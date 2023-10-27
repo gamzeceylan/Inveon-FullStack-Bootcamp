@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\bin\Debug\net7.0\AttributeSQLInveonOrnek.exe
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\bin\Debug\net7.0\AttributeSQLInveonOrnek.deps.json
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\bin\Debug\net7.0\AttributeSQLInveonOrnek.runtimeconfig.json
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\bin\Debug\net7.0\AttributeSQLInveonOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\bin\Debug\net7.0\AttributeSQLInveonOrnek.pdb
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.AssemblyInfo.cs
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\refint\AttributeSQLInveonOrnek.dll
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.pdb
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\AttributeSQLInveonOrnek.genruntimeconfig.cache
+C:\Users\Administrator\Documents\InveonBootcamp\4.gun\AttributeSQLInveonOrnek\AttributeSQLInveonOrnek\obj\Debug\net7.0\ref\AttributeSQLInveonOrnek.dll
